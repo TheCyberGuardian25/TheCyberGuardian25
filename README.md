@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- Level 1: Simple bio and stats -->
 
-<!--
-**TheCyberGuardian25/TheCyberGuardian25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I’m Ruth 🙋🏻‍♀️
+I’m passionate about cybersecurity and IT systems.  
+I’m currently learning and practicing skills in SOC operations, IT lab environments, incident detection, and system administration.
 
-Here are some ideas to get you started:
+## 🖋️ Skills I’m Developing
+- SOC skills: Security monitoring, log analysis, alert triage, incident response  
+- IT lab skills: Networking, server setup, system administration, troubleshooting  
+- Threat intelligence and basic security analytics  
+- Scripting for automation and data analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Future Projects / Labs
+### SOC-Focused
+- SOC lab exercises with simulated attacks  
+- SIEM log analysis exercises  
+- Incident response playbooks and reports  
+- Dashboard creation for monitoring alerts 
