@@ -1,8 +1,7 @@
 <!-- Level 1: Simple bio and stats -->
 
 ### Hi, I’m Ruth 🙋🏻‍♀️
-I’m passionate about cybersecurity and IT systems.  
-I’m currently learning and practicing skills in SOC operations, IT lab environments, incident detection, and system administration.
+I’m passionate about cybersecurity and IT systems. I’m currently learning and practicing skills in SOC operations, IT lab environments, incident detection, and system administration.
 
 ## 🖋️ Skills I’m Developing
 - SOC skills: Security monitoring, log analysis, alert triage, incident response  
