@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-## Hi I'm Ruth <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4" />
+## Hi I'm Ruth 👋 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4" />
 
 
 
