@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-div align="center">
+<div align="center">
 
 <div style="background: linear-gradient(135deg, #071330, #0E4D92, #00C2FF); padding: 40px; border-radius: 20px;">
 
