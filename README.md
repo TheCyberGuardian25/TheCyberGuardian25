@@ -1,7 +1,7 @@
 <!-- Level 1: Simple bio and stats -->
 
 <p align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
+  <img width="500" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
   <br>
   <strong>
     Hi, I'm RUTH
