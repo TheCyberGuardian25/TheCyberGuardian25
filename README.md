@@ -1,19 +1,14 @@
 <!-- Level 1: Simple bio and stats -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071330,50:0E4D92,100:00C2FF&height=150&section=header&text=&fontSize=0"/>
-</p>
-
-<p align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
-  <br>
+  <img width="250" src="https://github.com/uXXXX"><br>
   <strong>
     Hi, I'm XX
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  </strong>
-</p>
+    <img src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
+  </strong><br>
+  🛡️ Cybersecurity • SOC Operations • Homelabs • Detection Engineering
+</p> 
 
-<p align="center">
 🛡️ Cybersecurity • SOC Operations • Homelabs • Detection Engineering
 </p>
 
