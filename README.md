@@ -2,11 +2,6 @@
 
 <table align="center">
 <tr>
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071330,50:0E4D92,100:00C2FF&height=420&width=800&text=&fontSize=0"/>
-
-<br>
 
 <img width="250" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
 
