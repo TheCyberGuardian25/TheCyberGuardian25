@@ -4,7 +4,7 @@
 
 
 
-I’m passionate about cybersecurity and IT systems. I’m currently learning and practicing skills in SOC operations, IT lab environments, incident detection, and system administration.
+I’m passionate about cybersecurity and IT systems. I’m currently developing hands-on skills in SOC operations, cybersecurity homelabs, incident detection, and system administration through practical labs and projects.
 
 ## 🖋️ Skills I’m Developing
 - SOC skills: Security monitoring, log analysis, alert triage, incident response  
