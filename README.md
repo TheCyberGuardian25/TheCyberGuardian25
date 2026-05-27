@@ -1,13 +1,10 @@
 <!-- Level 1: Simple bio and stats -->
 
 <p align="center">
-  <img width="250" src="https://github.com/uXXXX"><br>
-  <strong>
-    Hi, I'm XX
-    <img src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
-  </strong><br>
+  <img width="250" src="https://github.com/uXXXX"><br><br>
+  <strong>Hi, I'm XX 👋</strong><br>
   🛡️ Cybersecurity • SOC Operations • Homelabs • Detection Engineering
-</p> 
+</p>
 
 I’m passionate about cybersecurity and IT systems. I’m currently developing hands-on skills in SOC operations, cybersecurity homelabs, incident detection, and system administration through practical labs and projects.
 
