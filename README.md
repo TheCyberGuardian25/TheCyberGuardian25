@@ -1,7 +1,10 @@
 <!-- Level 1: Simple bio and stats -->
 
-## Hi I'm Ruth 👋 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4" />
+## Hi, I'm Ruth 👋
 
+<p align="center">
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
+</p>
 
 
 I’m passionate about cybersecurity and IT systems. I’m currently developing hands-on skills in SOC operations, cybersecurity homelabs, incident detection, and system administration through practical labs and projects.
