@@ -9,9 +9,6 @@
   🛡️ Cybersecurity • SOC Operations • Homelabs • Detection Engineering
 </p> 
 
-🛡️ Cybersecurity • SOC Operations • Homelabs • Detection Engineering
-</p>
-
 I’m passionate about cybersecurity and IT systems. I’m currently developing hands-on skills in SOC operations, cybersecurity homelabs, incident detection, and system administration through practical labs and projects.
 
 
