@@ -1,12 +1,12 @@
 <!-- Level 1: Simple bio and stats -->
 
-<div align="center">
+<table align="center">
+<tr>
+<td bgcolor="#0A192F" align="center" width="700" height="350">
 
-<div style="background: linear-gradient(135deg, #071330, #0E4D92, #00C2FF); padding: 40px; border-radius: 20px;">
+<img width="250" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
 
-<img width="250" alt="Profile Image" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
-
-</div>
+<br><br>
 
 <h2>
 Hi, I'm XX
@@ -15,7 +15,9 @@ Hi, I'm XX
 
 🛡️ Aspiring SOC Analyst | Cybersecurity Homelab
 
-</div>
+</td>
+</tr>
+</table>
 
 I’m passionate about cybersecurity and IT systems. I’m currently developing hands-on skills in SOC operations, cybersecurity homelabs, incident detection, and system administration through practical labs and projects.
 
