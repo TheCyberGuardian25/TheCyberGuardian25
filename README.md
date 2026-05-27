@@ -2,11 +2,9 @@
 
 <p align="center">
   <img width="250" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
-</p>
-
-<p align="center">
+  <br>
   <strong>
-    Hi, I'm XX
+    Hi, I'm RUTH
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </strong>
 </p>
