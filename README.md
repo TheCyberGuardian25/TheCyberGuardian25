@@ -16,15 +16,34 @@
 I’m passionate about cybersecurity and IT systems. I’m currently developing hands-on skills in SOC operations, cybersecurity homelabs, incident detection, and system administration through practical labs and projects.
 
 
-## 🖋️ Skills I’m Developing
-- SOC skills: Security monitoring, log analysis, alert triage, incident response  
-- IT lab skills: Networking, server setup, system administration, troubleshooting  
-- Threat intelligence and basic security analytics  
-- Scripting for automation and data analysis  
+## 🖋️ Skills I’m Building
 
-## 📌 Future Projects / Labs
-### SOC-Focused
-- SOC lab exercises with simulated attacks  
-- SIEM log analysis exercises  
-- Incident response playbooks and reports  
-- Dashboard creation for monitoring alerts 
+### 🛡️ SOC & Security Operations
+- Security monitoring  
+- Log analysis  
+- Alert triage  
+- Incident investigation  
+- Incident response fundamentals  
+
+### 💻 Infrastructure & Homelab
+- Windows administration  
+- Networking  
+- Server deployment and configuration  
+- System hardening  
+- Troubleshooting  
+
+### 🔍 Security Engineering & Analysis
+- SIEM monitoring and analysis  
+- Threat detection  
+- Basic threat intelligence  
+- Scripting for automation and analysis  
+
+## 📌 Current & Upcoming Projects
+
+### 🛡️ SOC-Focused Labs
+- SOC lab simulations with attack scenarios  
+- SIEM log analysis and investigations  
+- Incident response documentation and playbooks  
+- Detection and alert monitoring dashboards  
+- Windows hardening and security validation  
+- Enterprise-style homelab environments
