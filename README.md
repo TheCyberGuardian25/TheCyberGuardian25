@@ -1,20 +1,17 @@
 <!-- Level 1: Simple bio and stats -->
 
-<table align="center">
-<tr>
+<p align="center">
+  <img width="250" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
+</p>
 
-<img width="250" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4">
+<h1 align="center">
+  Hi, I'm RUTH
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
 
-<h2>
-Hi, I'm RUTH
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h2>
-
-🛡️ Aspiring SOC Analyst | Cybersecurity Homelab
-
-</td>
-</tr>
-</table>
+<p align="center">
+🛡️ Cybersecurity • SOC Operations • Homelabs • Detection Engineering
+</p>
 
 I’m passionate about cybersecurity and IT systems. I’m currently developing hands-on skills in SOC operations, cybersecurity homelabs, incident detection, and system administration through practical labs and projects.
 
