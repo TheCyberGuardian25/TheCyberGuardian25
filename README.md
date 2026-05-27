@@ -1,7 +1,7 @@
 <!-- Level 1: Simple bio and stats -->
 
 <p align="center">
-  <img width="250" src="https://github.com/uXXXX"><br><br>
+  <img width="250" src="https://github.com/user-attachments/assets/214468b1-b6f9-4698-856f-19dbdd9aeaf4>
   <strong>Hi, I'm XX 👋</strong><br>
   🛡️ Cybersecurity • SOC Operations • Homelabs • Detection Engineering
 </p>
